@@ -1,0 +1,25 @@
+body {
+	color: #ecf0f1;
+	text-align: center;
+}
+
+.bg {
+	background-image: url('http://www.firefightersforanaheim.org/wp-content/uploads/2014/07/Manhattan_rsms_sa.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 10%;
+}
+
+.main_photo {
+	width: 200px;
+	height: 188px;
+
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: #95a5a6;
+}
